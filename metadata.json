@@ -1,0 +1,6 @@
+{
+  "name": "AI Trademark Pre-Registration Search Assistant",
+  "description": "Comprehensive pre-registration trademark search engine and Nice classification clearance assistant. Compare registered vs. unregistered goods and services with likelihood-of-confusion risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
